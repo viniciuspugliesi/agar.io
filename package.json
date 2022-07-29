@@ -1,0 +1,22 @@
+{
+  "name": "snj328",
+  "version": "0.0.0",
+  "description": "Free open source agar.io bots",
+  "author": "Nel",
+  "dependencies": {
+    "murmurhash-js": "^1.0.0",
+    "ws": "^7.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "colour": "^0.7.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
